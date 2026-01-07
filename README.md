@@ -1,24 +1,112 @@
-<h1 align="center">Hi 👋, I'm Yenugula Sravani</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<h1>👩‍💻 Yenugula Sravani — Azure Data Engineer</h1>
 
-- 🔭 I’m currently working on **Email Sender App using NodeJs**
-
-- 🌱 I’m currently learning **MERN Stack Course**
-
-- 👯 I’m looking to collaborate on **Full Stack Web development projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Yenugula-Sravani?tab=repositories](https://github.com/Yenugula-Sravani?tab=repositories)
-
-- 💬 Ask me about **SpringBoot,Spring,Java,HTML,CSS,JavaScript and nodeJs**
-
-- 📫 How to reach me **yenugulasravani7981@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/14cImQgtfUfz6NcniCNdpyosH56KiiWsSMY9DRhH8e2Q/edit?usp=sharing](https://docs.google.com/document/d/14cImQgtfUfz6NcniCNdpyosH56KiiWsSMY9DRhH8e2Q/edit?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yenugula-sravani-429216212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yenugula-sravani-429216212" height="30" width="40" /></a>
+<p>
+🚀 <strong>Azure-focused Data Engineer</strong> with <strong>3+ years of experience</strong> 
+building <strong>production-grade, cloud-native data pipelines</strong> on Microsoft Azure.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p>
+I specialize in designing <strong>end-to-end data engineering solutions</strong> that are 
+<strong>scalable, secure, and interview-ready</strong>, with hands-on expertise in 
+<strong>Azure Data Factory, Databricks, PySpark, ADLS Gen2, SQL, and Delta Lake</strong>.
+</p>
+
+<hr/>
+
+<h2>🔧 Technical Expertise</h2>
+
+<h3>Languages & Processing</h3>
+<ul>
+  <li>Python</li>
+  <li>SQL</li>
+  <li>PySpark</li>
+  <li>Apache Spark</li>
+  <li>Delta Lake</li>
+</ul>
+
+<h3>Azure Data Engineering</h3>
+<ul>
+  <li>Azure Data Factory (ADF)</li>
+  <li>Azure Databricks</li>
+  <li>Azure Data Lake Storage Gen2 (ADLS)</li>
+  <li>Azure Blob Storage</li>
+  <li>Azure SQL Database</li>
+  <li>Azure Key Vault</li>
+  <li>Logic Apps</li>
+</ul>
+
+<h3>Architecture & Patterns</h3>
+<ul>
+  <li>End-to-end ETL / ELT pipelines</li>
+  <li>Medallion Architecture (Bronze / Silver / Gold)</li>
+  <li>On-prem to Azure data migration</li>
+  <li>Incremental & batch processing</li>
+  <li>Data validation & reconciliation</li>
+</ul>
+
+<hr/>
+
+<h2>💼 Professional Experience</h2>
+
+<h3>Azure Data Engineer</h3>
+<p><strong>Boven Technologies Pvt Ltd</strong> | <em>May 2024 – Present</em></p>
+<ul>
+  <li>Designed and implemented end-to-end data migration pipelines from on-prem MySQL to Azure ADLS Gen2.</li>
+  <li>Built ADF-driven ETL workflows integrated with Databricks for scalable data processing.</li>
+  <li>Implemented secure credential management using Azure Key Vault.</li>
+  <li>Collaborated with stakeholders to validate data accuracy and optimize pipeline performance.</li>
+</ul>
+
+<h3>Programmer</h3>
+<p><strong>Kumaran Systems</strong> | <em>Apr 2023 – Mar 2024</em></p>
+<ul>
+  <li>Developed enterprise-grade pipelines using ADF and Databricks following Medallion Architecture.</li>
+  <li>Created PySpark transformations for large-scale data cleansing and analytics readiness.</li>
+  <li>Optimized Spark jobs using partitioning and caching strategies.</li>
+</ul>
+
+<h3>Software Engineer</h3>
+<p><strong>Avidex Infotech Pvt Ltd</strong> | <em>Feb 2022 – Mar 2023</em></p>
+<ul>
+  <li>Supported data engineering initiatives focused on data quality, pipeline reliability, and security.</li>
+  <li>Worked in Agile teams to deliver data solutions within project timelines.</li>
+</ul>
+
+<hr/>
+
+<h2>📂 What You’ll Find in My GitHub</h2>
+
+<ul>
+  <li>Production-ready Azure Data Engineering projects</li>
+  <li>ADF pipeline templates and best practices</li>
+  <li>Databricks PySpark notebooks</li>
+  <li>SQL validation and reconciliation scripts</li>
+  <li>Interview-ready project explanations</li>
+</ul>
+
+<p>
+<strong>Goal:</strong> Help <strong>junior to mid-level engineers and Azure switchers</strong> 
+gain <strong>real-world project confidence</strong>, not just theoretical knowledge.
+</p>
+
+<hr/>
+
+<h2>🧠 Current Focus</h2>
+<ul>
+  <li>Building production-style Azure Data Engineering project templates</li>
+  <li>Creating interview-ready real-time project assets</li>
+  <li>Sharing practical insights on Azure Data Engineering & career growth</li>
+  <li>Preparing for Azure Data Engineer roles</li>
+</ul>
+
+<hr/>
+
+<h2>📫 Let’s Connect</h2>
+<ul>
+  <li>Email: <strong>ysravani.de7@gmail.com</strong></li>
+  <<li>LinkedIn: <strong>https://www.linkedin.com/in/yenugulasravani/</strong></li>
+</ul>
+
+<p>
+⭐ <em>If you’re a recruiter or fellow data engineer, feel free to explore the repositories or reach out.</em>
+</p>
