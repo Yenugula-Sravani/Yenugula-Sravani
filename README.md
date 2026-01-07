@@ -104,7 +104,7 @@ gain <strong>real-world project confidence</strong>, not just theoretical knowle
 <h2>📫 Let’s Connect</h2>
 <ul>
   <li>Email: <strong>ysravani.de7@gmail.com</strong></li>
-  <<li>LinkedIn: <strong>https://www.linkedin.com/in/yenugulasravani/</strong></li>
+  <li>LinkedIn: <strong>https://www.linkedin.com/in/yenugulasravani/</strong></li>
 </ul>
 
 <p>
